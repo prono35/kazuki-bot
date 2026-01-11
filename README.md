@@ -19,7 +19,7 @@ Kazuki is a savage AI Discord bot providing:
 ## 🔗 Links
 
 - **Support Server:** https://discord.gg/9T77GN8dm3
-- **Invite Bot:** [Add to Discord](invite-link-here)
+- **Invite Bot:** [Add to Discord](https://discord.com/oauth2/authorize?client_id=1437451291000438906&permissions=8&integration_type=0&scope=applications.commands+bot)
 - **Creator:** improno
 
 ## 📞 Contact
